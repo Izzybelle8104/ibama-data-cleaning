@@ -1,5 +1,5 @@
 # IBAMA Wildlife Trafficking Data Cleaning and Analytics
-
+* NOT ALL CODE WILL BE PRESENTED DUE TO PRIVACY
 This project is focused on processing, cleaning, and analyzing data related to wildlife trafficking provided by the **Brazilian Institute of Environment and Renewable Natural Resources (IBAMA)**. The goal is to generate insights by combining species and legal infraction data, enabling further research on wildlife trafficking patterns and conservation efforts.
 
 ## Project Overview
